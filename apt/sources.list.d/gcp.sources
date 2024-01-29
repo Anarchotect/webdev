@@ -1,0 +1,10 @@
+## https://packages.cloud.google.com/apt 
+# https://packages.cloud.google.com/apt/doc/apt-key.gpg
+
+Types: deb
+URIs: https://packages.cloud.google.com/apt
+Suites: cloud-sdk
+Architectures: armhf arm64 amd64
+Components: main
+Signed-By: /etc/apt/keyrings/gcp.gpg
+

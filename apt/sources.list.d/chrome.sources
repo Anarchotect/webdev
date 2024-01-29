@@ -1,0 +1,10 @@
+## 
+# https://dl.google.com/linux/linux_signing_key.pub
+
+Types: deb
+URIs: http://dl.google.com/linux/chrome/deb/
+Suites: stable
+Architectures: amd64
+Components: main
+Signed-By: /etc/apt/keyrings/chrome.gpg
+

@@ -1,0 +1,10 @@
+## https://apt.releases.hashicorp.com
+# https://apt.releases.hashicorp.com/gpg
+
+Types: deb
+URIs: https://apt.releases.hashicorp.com
+Suites: bookworm
+Architectures: armhf arm64 amd64
+Components: main
+Signed-By: /etc/apt/keyrings/terraform.gpg
+
